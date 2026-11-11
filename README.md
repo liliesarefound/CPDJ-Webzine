@@ -37,7 +37,7 @@ git commit -m "Fix: updated the navigation bar and layout"
 git push origin main
 ```
 
-## ⚠️ Important Collaboration Rules
+## ⚠️ Important
 
 * **Always Pull First:** Before you start making edits, run `git pull origin main` to ensure you have the absolute latest code from everyone else. This prevents annoying code conflicts.
 * **Neocities File Deletion:** The deployment workflow is set to clean up unused files. If you delete a file inside this GitHub repository, **it will also be deleted from the live Neocities site** on the next deploy.
